@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+    <string name="ellipsize_text">更多</string>
+    <string name="ellipsize">…&#160;</string>
+</resources>
